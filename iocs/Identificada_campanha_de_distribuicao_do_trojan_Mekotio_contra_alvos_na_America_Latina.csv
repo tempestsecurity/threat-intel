@@ -1,0 +1,30 @@
+ioc,type,desc
+hxxp://stooooon[.]uaenorth[.]cloudapp[.]azure[.]com,url,E-mail
+hxxp://ec2-52-203-244-104[.]compute-1[.]amazonaws[.]com/9169158751840/6730449668231/799173368673/,url,Download do primeiro estágio
+hxxp://www[.]sandraevitorinformaticaltda[.]s3[.]sa-east-1[.]amazonaws[.]com,url,Download do segundo estágio
+[http://adrianaeiancontabilme[.]stufftoread[.]com/Belligerentsson/?counter&VVNFUi1QQyZXaW5kb3dzIDcoNjQpJjAyLTAyJkZhbHNlJk5v],url,Contador de vítimas
+https://www[.]dropbox[.]com/sh/nqvc73325o3kxbg/AAAYld-UuMoQtCktFcVIyT3da?dl=1,url,Download de Imagem com informações para conexão com o C&C
+https://drive[.]google[.]com/u/0/uc?id=1OP3SxlYtnGn1JGkNdK72iMPzmTuJ4Qh8&export=download,url,Primeira URL utilizada no Download do MSI contendo o Mekotio
+https://sandraevitorinformaticaltda[.]s3[.]sa-east-1[.]amazonaws[.]com/uv80il5jxd[.]jpg,url,Segunda URL utilizada no Download do MSI contento o Mekotio
+202.203.33.208:40264,ip,IP e porta utilizadas para C&C
+56ea6b8cfc2c0d0f596d60221fb1a883,md5,jvyq.7.yf3c7prvx.msi
+172e8cf49416a977d10e6ba2a3b3060a,md5,RdrCEF894421699_u.exe
+8702562d44326b680454957378bfe77a,md5,PSVirt32.dll
+59ed466a6a86b2255b28eefbc19319c0,md5,1643afvc.msi
+9c92800b8895e650ed0e71dd3abe5527,md5,Binary.cdvkfkamsgshkq49i.dll
+dbbef1e61526717bb022b09e384a407f,md5,vstdlib_s.dll
+e8b62851e0a28bd661f824dd475c2d11,md5,jump_force_deluxe.dll
+5d7a21e2138f1e4ed292dfa21a7c7ed37975cb87,sha1,jvyq.7.yf3c7prvx.msi
+f1fe87fe236243a11b2b28464910823a697cfd83,sha1,RdrCEF894421699_u.exe
+4077260fb3df3aeb554b5104dd649889802cf8b2,sha1,PSVirt32.dll
+7565e18aa7f8975f304f22a6577a04a44e649221,sha1,1643afvc.msi
+a9e2f1d3470957049d7ab5d6a532d6e466ef2738,sha1,Binary.cdvkfkamsgshkq49i.dll
+77e85d95edb96576456dbe34e34c7a06fc338a74,sha1,vstdlib_s.dll
+9354e43ad18331b189f664f5664148eced5e871f,sha1,jump_force_deluxe.dll
+96956907284097ebff39bfaad49bec16c95d0512024f0a6c827120d548a9d8ae,sha256,jvyq.7.yf3c7prvx.msi
+d182d61bcc46da92802782c6465041c59418e66b0e9e73c1754cdc94555df72e,sha256,RdrCEF894421699_u.exe
+67bc9495dc69ab834781c33f5834a31030622e145dad64f74c5f1b0c2137a55c,sha256,PSVirt32.dll
+a4bc9763571e5bf47bd1eb30bf67a3eff00ae491ae1854aeb4281f0b0b52194b,sha256,1643afvc.msi
+cafefa845ac390154192cf3bd9204ffa96bfa8d5a8f5c74b02f9137b2696415a,sha256,Binary.cdvkfkamsgshkq49i.dll
+884b6c4e97f22139f4e9d5c778781887f02b5d893489c8d02c5ff73ad88a80eb,sha256,vstdlib_s.dll
+f5a5f346e34712d4526819cd7f33a685e84e3ca966056eb62dddd00545f010be,sha256,jump_force_deluxe.dll
