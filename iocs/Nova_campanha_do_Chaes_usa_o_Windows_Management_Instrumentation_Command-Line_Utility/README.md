@@ -5,7 +5,7 @@
 Esse arquivo contempla os IoCs, as oportunidades de detecção e as técnicas do Mitre ATT&CK identificadas na recente campanha do Chaes. Detalhes sobre o malware foram enviados numa análise completa aos clientes do serviço Threat Intelligence.
 
 ## IOCs
-- [Chaes.csv](https://github.com/tempestsecurity/threat-intel/blob/master/iocs/Nova_campanha_do_Chaes_usa_o_Windows_Management_Instrumentation_Command-Line_Utility.csv) - Chaes malware Indicator of Compromise (IOC)
+- [Chaes.csv](https://github.com/tempestsecurity/threat-intel/blob/master/iocs/Nova_campanha_do_Chaes_usa_o_Windows_Management_Instrumentation_Command-Line_Utility/Chaes.csv) - Chaes malware Indicator of Compromise (IOC)
 
 ## Oportunidades de detecção
 
