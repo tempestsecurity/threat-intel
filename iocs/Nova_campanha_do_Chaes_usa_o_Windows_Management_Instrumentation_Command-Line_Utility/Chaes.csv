@@ -1,0 +1,11 @@
+ioc,type,desc
+https://dev-chaes3[.]blogspot[.]com/,url,DeadDrop
+18.231[.]166[.]119,ip,C&C
+18.230[.]122[.]127,ip,C&C
+54.207[.]61[.]146,ip,C&C
+69efd76deec6c071cd692716fe81c2bef9292efcd522a2aacd5f21eac3ab2301,sha256,envolved_1.msi
+07184e073d56f318bce8367e8fad5a36fda34e96,sha1,envolved_1.msi
+46ddc8f357f45998f6f12ad7d7551689,md5,envolved_1.msi
+27f13731c5f5994238ee60be5f055b3265b343fcdc78ae8add2176f8fcc93a3c,sha256,__main__.py
+de2f8ff77f14baae5892b94a4822aee53a1a28c4,sha1,__main__.py
+f0abf9c199995e671ded652155d31000,md5,__main__.py
