@@ -1,7 +1,7 @@
 ioc,type,desc
 https://ptb[.]discord[.]com/api/webhooks/1092510606273290260/LfYEv3dAHKJHn4vnextowVa0boNhD28-M6CQWtRgPFC9RrrXICFovzzQWoMmCiRlJI6b,url,webhook
 https://canary[.]discord[.]com/api/webhooks/1044783788879786114/F32-aQ4vucgAv4JRXAhb229O9fzLjRg7LEO2UgRAgXrQJYtCq7Hs-9O_abMulwjCToq1,url,webhook
-130[.]185[.]238[.]251,ip,
+130[.]185[.]238[.]251,ip,C&C
 94acfa1e9b7d3fae4afbc550bce56853,MD5,warsawsecurity.exe
 bc0780e8a6b64bc6e5fc27f70f42b9446e13ad3a,SHA1,warsawsecurity.exe
 88d11c654b102bee01ac8d0b397ee3cc2091da5eb3b715bf26ff3687f0552211,SHA256,warsawsecurity.exe
