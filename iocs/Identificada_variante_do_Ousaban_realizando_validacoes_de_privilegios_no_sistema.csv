@@ -1,0 +1,60 @@
+ioc,type,desc
+webcomunic4.access.ly,url,Hostnames (Senders)
+webcomunic18.access.ly,url,Hostnames (Senders)
+webcomunic11.access.ly,url,Hostnames (Senders)
+webcomunic3.access.ly,url,Hostnames (Senders)
+webcomunic6.access.ly,url,Hostnames (Senders)
+webcomunic15.access.ly,url,Hostnames (Senders)
+webcomunic22.access.ly,url,Hostnames (Senders)
+webcomunic8.access.ly,url,Hostnames (Senders)
+webcomunic12.access.ly,url,Hostnames (Senders)
+webcomunic23.access.ly,url,Hostnames (Senders)
+webcomunic14.access.ly,url,Hostnames (Senders)
+webcomunic13.access.ly,url,Hostnames (Senders)
+webcomunic19.access.ly,url,Hostnames (Senders)
+webcomunic2.access.ly,url,Hostnames (Senders)
+webcomunic7.access.ly,url,Hostnames (Senders)
+webcomunic20.access.ly,url,Hostnames (Senders)
+webcomunic17.access.ly,url,Hostnames (Senders)
+webcomunic5.access.ly,url,Hostnames (Senders)
+webcomunic16.access.ly,url,Hostnames (Senders)
+webcomunic21.access.ly,url,Hostnames (Senders)
+webcomunic10.access.ly,url,Hostnames (Senders)
+webcomunic9.access.ly,url,Hostnames (Senders)
+webcomunic24.access.ly,url,Hostnames (Senders)
+webcomunic1.access.ly,url,Hostnames (Senders)
+195.231.87.214,ip,IPs (Senders)
+195.231.87.52,ip,IPs (Senders)
+195.231.87.117,ip,IPs (Senders)
+195.231.87.68,ip,IPs (Senders)
+195.231.87.140,ip,IPs (Senders)
+195.231.87.35,ip,IPs (Senders)
+195.231.87.106,ip,IPs (Senders)
+195.231.87.180,ip,IPs (Senders)
+195.231.87.168,ip,IPs (Senders)
+195.231.87.229,ip,IPs (Senders)
+195.231.87.171,ip,IPs (Senders)
+195.231.87.137,ip,IPs (Senders)
+195.231.87.32,ip,IPs (Senders)
+195.231.87.54,ip,IPs (Senders)
+195.231.87.234,ip,IPs (Senders)
+195.231.87.45,ip,IPs (Senders)
+195.231.87.42,ip,IPs (Senders)
+195.231.87.197,ip,IPs (Senders)
+195.231.87.63,ip,IPs (Senders)
+195.231.87.145,ip,IPs (Senders)
+195.231.87.220,ip,IPs (Senders)
+195.231.87.128,ip,IPs (Senders)
+195.231.87.246,ip,IPs (Senders)
+195.231.87.108,ip,IPs (Senders)
+http://verifica.from-wy.com/.acesso/?hash=verifica,url,url
+https://pastebin.com/V3jYrjj2,url,url
+https://pastebin.com/ZyD9k4n7,url,url
+https://pastebin.com/ApJSsB82,url,url
+20.45.38.126:5400,ip,IP (C2)
+f89ca81828c7e2fbff074316abed93da,MD5,shfolder.dll
+c670468ae09bc6d1002c1607ad0f1ec2405bdae0,SHA1,shfolder.dll
+9e3a892803c3348ea7e08c6b1cae57e23aff840c7435eecaeb866177d9f5f92d,SHA256,shfolder.dll
+117978a3f980ddde2b917e363d91ba4e,MD5,HYPRIJJUTSOY.msi
+36544627b43181836779375f779b5aab3b9e0160,SHA1,HYPRIJJUTSOY.msi
+9dbf26ce2f1ff35569c3b281d65e3062bfb002e20d1bf3f40266baac7787b7be,SHA256,HYPRIJJUTSOY.msi
