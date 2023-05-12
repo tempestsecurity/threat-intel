@@ -1,0 +1,17 @@
+ioc,type,description
+mlestatistics[.]com,domain,C2
+oubstatistics[.]com,domain,C2
+mega-adblock[.]com,domain,C2
+ultra-adblock[.]com,domain,C2
+hxxps://mega-adblock[.]com/api/updateRegexes.php,url,URL para atualizar alvos da ameaça
+hxxps://oubstatistics[.]com/info/saveInfo,url,URL utilizada para exfiltrar os dados obtidos pelo JS malicioso que foi injetado
+hxxps://oubstatistics[.]com/checkAds.php,url,URL que obtêm o JS que irá ser injetado no website alvo
+hxxps://mlestatistics[.]com/info/saveInfo,url,URL utilizada para exfiltrar os dados obtidos pelo JS malicioso que foi injetado
+hxxps://mlestatistics[.]com/check.php,url,URL que obtêm o JS que irá ser injetado no website alvo
+wss://x[.]mlestatistics[.]com/websocket,url,URL utilizada para se comunicar com o C2 dos atacantes por um dos JS injetados
+d918979fac3f00634a2c485487ed0b62,hash MD5,extension_2_0_0_9.crx
+f5f31adc6949d7c899774ede1b29d8fc99d0ac14,hash SHA1,extension_2_0_0_9.crx
+2db5d35679938aba3b69828871be9e7248fcbab873130b9a2cc6873c710c7604,hash SHA256,extension_2_0_0_9.crx
+b4d48ca66c53cf5b64994b846c4339b0,hash MD5,extension_2_0_0_7.crx
+8994589c59b5bc2887e36804ddca100dfab60911,hash SHA1,extension_2_0_0_7.crx
+2cf4a7180a4612d31f1cea599b5bff3e15d1ac10e94973e9fecea5071e564cf1,hash SHA256,extension_2_0_0_7.crx
