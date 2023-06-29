@@ -1,0 +1,13 @@
+ioc,type,description
+logrosoftwere[.]com,domain,C2
+loucosporcoxinha[.]com,domain,C2
+illagelados[.]com,domain,C2
+milkmuu[.]com,domain,C2
+rolangahos[.]com,domain,C2
+hxxps://controletempo[.]com,url,C2
+a46357f1754b2c441f3a10f70200572b,md5,id-5464128.exe
+1f616ec7bddef8fc809b31e37e72142a48ba6479,sha1,id-5464128.exe
+1f0bbdcfa41abf3a57fa54aaf24b008490ba91de44de339f34453ae0793b5c2d,sha256,id-5464128.exe
+0d3db106490c30d552d10f1f3099cd5f,md5,cabinet.dll
+a840308a32d5fac06c8739ac46424e0dca39bdb7,sha1,cabinet.dll
+e39b00b759276e7777b690de5d1aa9203f7050e1518c1cec2eb0813567fe3eb0,sha256,cabinet.dll
